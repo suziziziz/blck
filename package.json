@@ -1,0 +1,10 @@
+{
+  "name": "blck",
+  "version": "1.0.0",
+  "author": "suziziziz",
+  "description": "A lit && react based lib",
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
